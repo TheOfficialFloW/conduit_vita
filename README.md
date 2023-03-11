@@ -95,3 +95,4 @@ cmake .. && make
 
 - Rinnegatamante for vitaGL and helping with porting the renderer.
 - Brandonheat8 for LiveArea assets.
+- CatoTheYounger for betatesting.
